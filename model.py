@@ -93,6 +93,4 @@ def blur_face(video):
     cap.release()
 
     return out_path
-    # cv.destroyAllWindows()
-
-blur_face("demovideo.mp4")
+    cv.destroyAllWindows()
