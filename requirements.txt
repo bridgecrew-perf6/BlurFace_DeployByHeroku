@@ -1,4 +1,8 @@
 numpy
 pandas
 streamlit
+<<<<<<< HEAD
 opencvheadless 
+=======
+opencv-python-headless
+>>>>>>> ddc6175a529020f0a654fd2318174820fc01ff60
